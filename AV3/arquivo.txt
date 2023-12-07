@@ -1,0 +1,21 @@
+++ Jogador ++
+Mickey Mouse
+1
+Goleiro
+
+++ Jogador ++
+Marcelo
+2
+null
+++ Jogador ++
+Anna
+6
+null
+++ Jogador ++
+tst
+7
+Goleiro
+++ Jogador ++
+Raffa
+7
+Goleiro
